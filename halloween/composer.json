@@ -1,0 +1,9 @@
+{
+    "name": "barbikaaa/halloween",
+    "autoload": {
+        "psr-4": {
+            "Barbikaaa\\Halloween\\": "src/"
+        }
+    },
+    "require": {}
+}
